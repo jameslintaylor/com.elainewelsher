@@ -149,7 +149,7 @@ body {
 
 .project-image-full {
   opacity: 0.4;
-  height: 80vh;
+  width: 70vh;
   border-radius: 30px;
   transition: opacity 1s,
               border-radius 1s;
